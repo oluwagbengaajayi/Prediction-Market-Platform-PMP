@@ -55,8 +55,13 @@ plan:
             path: contracts/market-creation.clar
             clarity-version: 2
         - emulated-contract-publish:
-            contract-name: oracle
+            contract-name: amm
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/oracle.clar
+            path: contracts/amm.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: betting
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/betting.clar
             clarity-version: 2
       epoch: "2.5"

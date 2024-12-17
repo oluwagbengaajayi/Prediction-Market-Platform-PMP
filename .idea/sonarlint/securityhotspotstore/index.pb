@@ -9,3 +9,7 @@ E
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 F
 contracts/betting.clar,a/d/adfa2d5c5ca8387413ecafeb8ed0efe858182285
+E
+tests/betting.test.ts,5/6/56051513df632ba537561a7862c3904687b6ccb1
+B
+contracts/amm.clar,7/2/720965d35cb0aac487faaa57ab7e9c682e2f8f4a

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680bb178-19d7-48ce-a75d-1deea54b6c8a" name="Changes" comment="" />
+    <list default="true" id="680bb178-19d7-48ce-a75d-1deea54b6c8a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/deployments/default.simnet-plan.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deployments/default.simnet-plan.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734431503463</updated>
-      <workItem from="1734431504797" duration="1033000" />
+      <workItem from="1734431504797" duration="1343000" />
     </task>
     <servers />
   </component>
